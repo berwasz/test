@@ -1,1 +1,3 @@
 # test
+
+Testowanie commitów
